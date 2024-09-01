@@ -1,0 +1,96 @@
+[
+  {
+    "id": "6c1ca3a3-5e74-42a6-8796-e1bbdfa07875",
+    "name": "midudev",
+    "language": "spanish",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/midudev.png",
+    "socialnetworks": {
+      "ig": ["midu.dev"],
+      "youtube": ["@midudev", "@midulive"],
+      "twitch": ["midudev"],
+      "x": ["midudev"],
+      "github": ["midudev"]
+    }
+  },
+  {
+    "id": "73ec77c3-0f6e-43f3-9a37-c10fff76ac08",
+    "name": "NetworkChuck",
+    "language": "english",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/networkchuck.png",
+    "socialnetworks": {
+      "ig": ["networkchuck"],
+      "youtube": ["@NetworkChuck"],
+      "twitch": ["networkchuck"],
+      "x": ["networkchuck"]
+    }
+  },
+  {
+    "id": "c3915cff-8ec9-460f-a70f-57814323531d",
+    "name": "Fazt",
+    "language": "spanish",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/fazt.png",
+    "socialnetworks": {
+      "ig": ["fazttech"],
+      "youtube": ["@FaztCode", "@FaztTech"],
+      "x": ["FaztTech"],
+      "github": ["fazt", "faztcommunity", "FaztWeb"]
+    }
+  },
+  {
+    "id": "e9f91640-5b1a-41e6-a52b-72913debaf82",
+    "name": "Programador X",
+    "language": "spanish",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/programador-x.png",
+    "socialnetworks": {
+      "ig": ["programador.x"],
+      "youtube": ["@ProgramadorX"],
+      "x": ["programador_x_"]
+    }
+  },
+  {
+    "id": "565dc329-38b3-441d-983d-14310badf70e",
+    "name": "MoureDev",
+    "language": "spanish",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/mouredev.png",
+    "socialnetworks": {
+      "ig": ["mouredev"],
+      "youtube": ["@mouredevtv"],
+      "x": ["MoureDev"],
+      "twitch": ["mouredev"],
+      "github": ["mouredev"]
+    }
+  },
+  {
+    "id": "75bfeecf-69c8-471f-ae38-62e9459aceeb",
+    "name": "Traversy Media",
+    "language": "english",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/traversy-media.png",
+    "socialnetworks": {
+      "ig": ["traversymedia"],
+      "youtube": ["@TraversyMedia"],
+      "x": ["traversymedia"],
+      "github": ["bradtraversy"]
+    }
+  },
+  {
+    "id": "4f9cfabf-c223-4122-9e95-88ab68a05751",
+    "name": "developedbyed",
+    "language": "english",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/developedbyed.png",
+    "socialnetworks": {
+      "ig": ["developedbyed"],
+      "youtube": ["@developedbyed"],
+      "x": ["developedbyed"]
+    }
+  },
+  {
+    "id": "d9646f20-a2bc-46c9-b589-84d64837b8e4",
+    "name": "munoncode",
+    "language": "spanish",
+    "logoUrl": "https://tech-content-creators-api.s3.amazonaws.com/logos/munoncode.png",
+    "socialnetworks": {
+      "ig": ["munoncode"],
+      "youtube": ["@munoncode"]
+    }
+  }
+]
