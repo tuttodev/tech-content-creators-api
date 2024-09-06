@@ -29,4 +29,8 @@ export class Server {
       })
     })
   }
+
+  getExpressApp (): express.Express {
+    return this._app
+  }
 }
