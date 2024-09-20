@@ -1,5 +1,6 @@
 import express from 'express'
 import v1Routes from './routes/v1/index'
+import cors from 'cors'
 
 export class Server {
   private readonly _app: express.Express
@@ -9,6 +10,7 @@ export class Server {
     this._app = express()
     this._app.use(express.json())
     this._app.use(express.urlencoded({ extended: true }))
+    this._app.use(cors())
 
     // Set up routes
     this._setupRoutes()

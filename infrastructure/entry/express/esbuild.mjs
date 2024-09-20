@@ -2,7 +2,7 @@ import esbuild from 'esbuild'
 import zl from 'zip-lib'
 
 const outFile = './infrastructure/entry/express/dist'
-const lambdaFile = './infrastructure/entry/express/lambda.js'
+const lambdaFile = './infrastructure/entry/express/lambda.ts'
 
 await esbuild.build({
   entryPoints: [lambdaFile],
