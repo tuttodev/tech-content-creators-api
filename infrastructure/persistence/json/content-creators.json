@@ -1,5 +1,17 @@
 [
   {
+    "id": "f2e31919-f9ab-4fbf-abd5-874fa46cfaae",
+    "name": "tuttodev",
+    "language": "spanish",
+    "logoUrl": "https://content-creators-api.s3.amazonaws.com/logos/tuttodev.png",
+    "socialnetworks": {
+      "ig": ["tuttodev"],
+      "youtube": ["@tuttodev"],
+      "x": ["tuttodevv"],
+      "github": ["tuttodev"]
+    }
+  },
+  {
     "id": "6c1ca3a3-5e74-42a6-8796-e1bbdfa07875",
     "name": "midudev",
     "language": "spanish",
