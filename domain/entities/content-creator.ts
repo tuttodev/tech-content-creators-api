@@ -5,10 +5,11 @@ export class ContentCreator {
     readonly language: string,
     readonly logoUrl: string,
     readonly socialNetworks: {
-      ig: string[] | null
-      youtube: string[] | null
-      x: string[] | null
-      twitch: string[] | null
+        ig: string[] | null
+        youtube: string[] | null
+        x: string[] | null
+        twitch: string[] | null
+        github: string[] | null
     }
   ) {}
 }

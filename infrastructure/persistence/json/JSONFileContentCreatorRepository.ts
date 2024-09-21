@@ -13,7 +13,8 @@ export class JSONFileContentCreatorRepository implements ContentCreatorRepositor
         ig: item.socialnetworks?.ig ?? null,
         twitch: item.socialnetworks?.twitch ?? null,
         x: item.socialnetworks?.x ?? null,
-        youtube: item.socialnetworks?.youtube ?? null
+        youtube: item.socialnetworks?.youtube ?? null,
+        github: item.socialnetworks?.github ?? null
       }
     ))
   }
