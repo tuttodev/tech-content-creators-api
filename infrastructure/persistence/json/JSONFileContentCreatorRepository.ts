@@ -18,4 +18,8 @@ export class JSONFileContentCreatorRepository implements ContentCreatorRepositor
       }
     ))
   }
+
+  async save(): Promise<ContentCreator> {
+    return {} as ContentCreator
+  }
 }
