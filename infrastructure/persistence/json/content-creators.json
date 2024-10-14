@@ -104,5 +104,16 @@
       "ig": ["munoncode"],
       "youtube": ["@munoncode"]
     }
+  },
+  {
+    "id": "b0dd7f8b-2218-4c81-8dda-173c3c9e19b9",
+    "name": "Juan Jose Ortiz",
+    "language": "spanish",
+    "logoUrl": "https://resources.creadoresapi.com/logos/juan-jose-ortiz.png",
+    "socialnetworks": {
+      "ig": ["juanortizdt"],
+      "x": ["juan_deltoro2"],
+      "youtube": ["@JuanOrtizDev"]
+    }
   }
 ]
